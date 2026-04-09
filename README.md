@@ -57,5 +57,5 @@ Sorting Algorithms
 Linked List
 Stack & Queue
 Trees & Graphs (Basics)
-Time & Space Complexity.
+Time & Space Complexity
 
